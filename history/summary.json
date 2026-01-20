@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 437,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "time": 407,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,17 @@
     "slug": "wikipedia",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 0
+      "2026-01-20": 82
     }
   },
   {
@@ -42,17 +42,17 @@
     "url": "https://workshop.resed.digitaleditions.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/workshop.resed.digitaleditions.ch.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 0
+      "2026-01-20": 82
     }
   }
 ]
