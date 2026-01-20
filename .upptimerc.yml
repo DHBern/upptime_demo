@@ -5,12 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Digital Editions - University of Bern
     url: https://digitaleditions.ch/
-  - name: Wikipedia
-    url: Brandans Meerfahrt | Brandans Meerfahrt
-  - name: Hacker News
-    url: https://workshop.resed.digitaleditions.ch/
+  - name: Brandans Meerfahrt
+    url: https://brandans-meerfahrt.digitaleditions.ch/
   - name: Re-use of editions and text collections
-    url: https://thissitedoesnotexist.koj.co
+    url: https://workshop.resed.digitaleditions.ch/
 
 status-website:
   baseUrl: /upptime_demo
