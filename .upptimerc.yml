@@ -13,6 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
+  baseUrl: /upptime_demo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DH Services Monitoring (Demo)
   introTitle: "**Upptime** instance for DHBern"
